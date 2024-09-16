@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 1a5aaadbc15ede4dcc17189f3d9d4fec4b1843c8 victor <victorantoniomira5@gmail.com> 1726423387 -0300	commit (initial): criacao do primeiro arquivo
+1a5aaadbc15ede4dcc17189f3d9d4fec4b1843c8 dd72b4d906cb122c0488636c233ba06826188e80 victor <victorantoniomira5@gmail.com> 1726424751 -0300	commit: pares de irmãos
+dd72b4d906cb122c0488636c233ba06826188e80 dd72b4d906cb122c0488636c233ba06826188e80 victor <victorantoniomira5@gmail.com> 1726436034 -0300	checkout: moving from master to dd72b4d
+dd72b4d906cb122c0488636c233ba06826188e80 6f4f93fed4bf2d5b80d289d50602cb26a5d616ba victor <victorantoniomira5@gmail.com> 1726444441 -0300	commit: inicializar comando
+6f4f93fed4bf2d5b80d289d50602cb26a5d616ba 1b7ab52dca4e0cde629b696ef9da1f56bddc87e7 victor <victorantoniomira5@gmail.com> 1726444576 -0300	commit (amend): inicializar comando
+1b7ab52dca4e0cde629b696ef9da1f56bddc87e7 c92cac48c3aceead4bcd513c64f6c69a53de24cd victor <victorantoniomira5@gmail.com> 1726449485 -0300	commit: calculo fatorial 1.0
